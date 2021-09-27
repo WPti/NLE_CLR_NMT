@@ -1,4 +1,4 @@
-# This repository hosts the codes and data for our NLE submission by extending the initial CL_NMT code base
+# This repository hosts our NLE submission by extending the initial CL_NMT code base
 This repository includes all the code for cl_nmt experience, mainly refer to the following two open source code
  - [loss-landscape](https://github.com/tomgoldstein/loss-landscape) 
  - [fairSeq](https://github.com/pytorch/fairseq)
