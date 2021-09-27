@@ -1,5 +1,5 @@
 # This repository hosts our NLE submission of cyclic learning rate for NMT
-This repository includes all the code for cl_nmt experience, mainly refer to the following two open source code
+This repository includes all the code extending our initial implementation of cyclic learning rate for NMT, mainly based on the following two open source code
  - [loss-landscape](https://github.com/tomgoldstein/loss-landscape) 
  - [fairSeq](https://github.com/pytorch/fairseq)
 
